@@ -1,1 +1,1 @@
-# TrainingChords
+# Training Chords
