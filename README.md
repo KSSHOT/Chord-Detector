@@ -5,8 +5,8 @@
 
 * [LinkedIn] (https://www.linkedin.com/in/david-garcia-badillo/)
 
-## Ver ejemplo en vivo
-- [https://ksshot.github.io/Chord-Detector/] (https://ksshot.github.io/Chord-Detector/)
+## Ver ejemplo del funcionamiento
+- [https://youtu.be/eOE063TuyLA] (https://youtu.be/eOE063TuyLA)
 
 ## Descripción
 
